@@ -1,0 +1,23 @@
+# Don't track content of these folders
+node_modules/
+someOtherfolder/
+
+#compiled source#
+#################
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+#packages#
+*.jar
+*.rar
+*.war
+*.gz
+*.rar
+*.tar
+*.zip
